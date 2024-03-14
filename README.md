@@ -11,3 +11,5 @@ Some VLESS Proxy link：
 ❹https://vpn002.niniubi.lol/d23937c3-f20c-40c6-b7fd-dd8b73475f2b
 
 ❺https://vpn003.niniubi.lol/43a7bd0b-7479-4498-866f-09eadb62c51a
+
+<a href="https://1024tools.com/uuid">uuid</a>
